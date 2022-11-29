@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\86136\Desktop\Student\main.cpp(1,13): warning C4081: 应输入“newline”；找到“;”
+C:\Users\86136\Desktop\Student\main.cpp(196,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Student.vcxproj -> C:\Users\86136\Desktop\Student\x64\Debug\Student.exe
